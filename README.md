@@ -2,10 +2,6 @@
 <h2>Hey! 👋</h2>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bourouis-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="bourouis-mohamed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bourouis-mohamed" alt="bourouis-mohamed" /></a> </p>
-
 I'm Bourouis Mohamed Amine! 
 - <h4>Currently:</h4>  Software Engineer Student at Higher Institute of Applied Science and Technology of Sousse (ISSATSO). 
 
@@ -14,35 +10,20 @@ I'm Bourouis Mohamed Amine!
 
 - System Design and Distributed Computing
 - Software Engineering
+- Mobile Developement
 
 
-<h2>👀 Stats</h2>
+<h2> About MOHAMED AMINE⚡:</h2>
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
-  </p>
-</div>
+I'm a university student living in Sousse, Tunisia. I love reading, developing projects, enjoying music, and exploring nature. If you're around Sousse, Tunisia, feel free to drop me an email, and let's catch up over coffee!
 
-<h2> About Laxmena⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
- 
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
+
+- Write to me: [Gmail](mailto:moha.amine.bou@gmail.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:moha.amine.bou@gmail.com">![moha.amine.bou@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mohamed-amine-bourouis/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
